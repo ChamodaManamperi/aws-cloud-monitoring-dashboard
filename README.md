@@ -2,7 +2,7 @@
 
 > A glassmorphism-style SaaS dashboard concept that brings cloud storage, file management, deployment and performance monitoring into one clean, easy-to-use interface.
 
-![Japolic Dashboard](images/primaryFrame.png)
+![Japolic Dashboard](images/PrimaryFrame.png)
 
 **Role:** UI/UX Designer
 **Type:** Personal design project
